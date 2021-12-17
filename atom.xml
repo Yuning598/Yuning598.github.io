@@ -6,7 +6,7 @@
   <link href="http://yuntingsysu.top/atom.xml" rel="self"/>
   
   <link href="http://yuntingsysu.top/"/>
-  <updated>2021-12-13T14:03:20.088Z</updated>
+  <updated>2021-12-17T03:34:18.072Z</updated>
   <id>http://yuntingsysu.top/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="http://yuntingsysu.top/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
+    <id>http://yuntingsysu.top/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</id>
+    <published>2021-12-17T03:34:18.000Z</published>
+    <updated>2021-12-17T03:34:18.072Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>paper</title>
