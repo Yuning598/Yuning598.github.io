@@ -3,11 +3,11 @@
   <title>小食谈记</title>
   
   <subtitle>个人博客</subtitle>
-  <link href="http://yuntingsysu.top/atom.xml" rel="self"/>
+  <link href="https://yuning598.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yuntingsysu.top/"/>
+  <link href="https://yuning598.github.io/"/>
   <updated>2021-12-17T03:34:18.072Z</updated>
-  <id>http://yuntingsysu.top/</id>
+  <id>https://yuning598.github.io/</id>
   
   <author>
     <name>Liu Yunting</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://yuntingsysu.top/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
-    <id>http://yuntingsysu.top/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</id>
+    <link href="https://yuning598.github.io/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
+    <id>https://yuning598.github.io/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</id>
     <published>2021-12-17T03:34:18.000Z</published>
     <updated>2021-12-17T03:34:18.072Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>paper</title>
-    <link href="http://yuntingsysu.top/post/paper.html"/>
-    <id>http://yuntingsysu.top/post/paper.html</id>
+    <link href="https://yuning598.github.io/post/paper.html"/>
+    <id>https://yuning598.github.io/post/paper.html</id>
     <published>2021-12-13T14:03:20.000Z</published>
     <updated>2021-12-13T14:03:20.088Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yuntingsysu.top/post/hello-world.html"/>
-    <id>http://yuntingsysu.top/post/hello-world.html</id>
+    <link href="https://yuning598.github.io/post/hello-world.html"/>
+    <id>https://yuning598.github.io/post/hello-world.html</id>
     <published>2021-12-12T02:51:38.396Z</published>
     <updated>2021-12-12T02:51:38.397Z</updated>
     
