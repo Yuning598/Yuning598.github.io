@@ -6,7 +6,7 @@
   <link href="https://yuning598.github.io/atom.xml" rel="self"/>
   
   <link href="https://yuning598.github.io/"/>
-  <updated>2021-12-17T09:10:56.507Z</updated>
+  <updated>2021-12-17T09:13:35.040Z</updated>
   <id>https://yuning598.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yuning598.github.io/post/for-new-post.html"/>
     <id>https://yuning598.github.io/post/for-new-post.html</id>
     <published>2021-12-17T09:00:41.000Z</published>
-    <updated>2021-12-17T09:10:56.507Z</updated>
+    <updated>2021-12-17T09:13:35.040Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p><strong>参考来源</strong>：<a href="https://www.heson10.com/posts/22932.html">Hexo 新建文章自动打开编辑器 - 黑石博客 - Hexo博客 (heson10.com)</a></p></blockquote><ul><li><p>在hexo根目录下，运行<code>hexo new post for-new-post</code>，自动打开Typora书写新文章。</p></li><li><p>实践出现的问题</p><p>我具体实践的时候出现bug；发现是添加tags时忘记在<code>:</code>后添加空格；重新添加空格即可。</p></li></ul><p><img src="image-20211217170655622.png" alt="image-20211217170655622"></p><p><img src="image-20211217170748981.png" alt="image-20211217170748981"></p><p><img src="image-20211217171022260.png" alt="image-20211217171022260"></p>]]></content>
     
@@ -34,8 +34,6 @@
     
     
     
-    
-    <category term="hexo功能探索" scheme="https://yuning598.github.io/tag/hexo%E5%8A%9F%E8%83%BD%E6%8E%A2%E7%B4%A2/"/>
     
   </entry>
   
