@@ -6,7 +6,7 @@
   <link href="https://yuning598.github.io/atom.xml" rel="self"/>
   
   <link href="https://yuning598.github.io/"/>
-  <updated>2021-12-17T09:19:46.796Z</updated>
+  <updated>2021-12-18T05:16:59.019Z</updated>
   <id>https://yuning598.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yuning598.github.io/post/for-new-post.html"/>
     <id>https://yuning598.github.io/post/for-new-post.html</id>
     <published>2021-12-17T09:00:41.000Z</published>
-    <updated>2021-12-17T09:19:46.796Z</updated>
+    <updated>2021-12-18T05:16:59.019Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p><strong>参考来源</strong>：<a href="https://www.heson10.com/posts/22932.html">Hexo 新建文章自动打开编辑器 - 黑石博客 - Hexo博客 (heson10.com)</a></p></blockquote><ul><li><p>在hexo根目录下，运行<code>hexo new post for-new-post</code>，自动打开Typora书写新文章。</p></li><li><p>实践出现的问题</p><p>我具体实践的时候出现bug；发现是添加tags时忘记在<code>:</code>后添加空格；重新添加空格即可。</p></li></ul><p><img src="https://s2.loli.net/2021/12/17/PfiL7g4SEKcsw91.png"></p><p><img src="https://s2.loli.net/2021/12/17/wyfE8iChVUYL5lP.png"></p><p><img src="https://s2.loli.net/2021/12/17/Kktnc5bArEy94Wf.png"></p>]]></content>
     
@@ -34,41 +34,19 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>我的第一篇文章</title>
-    <link href="https://yuning598.github.io/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
-    <id>https://yuning598.github.io/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html</id>
-    <published>2021-12-17T03:34:18.000Z</published>
-    <updated>2021-12-17T03:34:18.072Z</updated>
+    <category term="hexo" scheme="https://yuning598.github.io/category/hexo/"/>
     
     
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>paper</title>
-    <link href="https://yuning598.github.io/post/paper.html"/>
-    <id>https://yuning598.github.io/post/paper.html</id>
-    <published>2021-12-13T14:03:20.000Z</published>
-    <updated>2021-12-13T14:03:20.088Z</updated>
-    
-    
-    
-    
+    <category term="hexo配置" scheme="https://yuning598.github.io/tag/hexo%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yuning598.github.io/post/hello-world.html"/>
-    <id>https://yuning598.github.io/post/hello-world.html</id>
+    <link href="https://yuning598.github.io/post/hexo%E6%8C%87%E4%BB%A4.html"/>
+    <id>https://yuning598.github.io/post/hexo%E6%8C%87%E4%BB%A4.html</id>
     <published>2021-12-12T02:51:38.396Z</published>
-    <updated>2021-12-12T02:51:38.397Z</updated>
+    <updated>2021-12-18T05:19:03.069Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -79,6 +57,8 @@
       
     
     
+    
+    <category term="hexo" scheme="https://yuning598.github.io/category/hexo/"/>
     
     
   </entry>
